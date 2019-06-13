@@ -1,5 +1,5 @@
 
-# cs580-Assignment 5
+# cs580-Assignment 3
 
 This repository contains the starter for project three in Computer Science 580 Spring 2019. The same repository will be used in CMPSC 610 in Spring 2019. The main directory of this repository contains the LaTeX source code for a project that is designed for use with [GitHub Classroom](https://classroom.github.com/).
 
